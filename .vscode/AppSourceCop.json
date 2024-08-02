@@ -1,0 +1,5 @@
+{
+    "mandatoryAffixes": [ "REI" ],
+    "supportedCountries": ["NG","US","UK"],
+    "mandatoryPrefix": "REI"
+}

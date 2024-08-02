@@ -1,0 +1,32 @@
+{
+  "id": "b31dfe88-64a2-4c34-8770-c6320ab173a4",
+  "name": "Document Approval Workflow",
+  "publisher": "Reliance Infosystems",
+  "version": "1.0.0.0",
+  "brief": "A custom approval workflow engine that enables automation of employee self-service activities",
+  "description": "This custom approval workflow enables rapid and instantatenous approval to be sent and received via outlook email",
+  "privacyStatement": "https://reliance.systems/ Privacy statement Url ",
+  "EULA": "https://reliance.systems/  Url for the license terms ",
+  "help": "https://reliance.systems/. Url where users can find help related to the use of the document approval workflow. See this for guidance https://www.eos-solutions.it/en/contact.html?eosapps=yes and https://docs.continia.com/en-us/continia-document-capture",
+  "url": "https://reliance.systems/ Url for landing page for advertisement of the app",
+  "logo": "./Approval Review Icon.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "applicationInsightsConnectionString": "InstrumentationKey=d4d6d602-8159-4695-a2df-d516551fc95d;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=82884d4d-417e-4c3e-a55f-2c2bec5f1d3d",
+  "idRanges": [
+    {
+      "from": 70976575,
+      "to": 70977574
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "contextSensitiveHelpUrl": "https://reliance.systems/",
+  "runtime": "13.1",
+  "features": ["TranslationFile", "GenerateCaptions", "GenerateLockedTranslations"]
+}

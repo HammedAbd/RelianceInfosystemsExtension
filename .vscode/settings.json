@@ -1,0 +1,4 @@
+{
+    "alOutline.enableCodeCopFixes": true,
+    "alOutline.fixCodeCopMissingParenthesesOnSave": true
+}
