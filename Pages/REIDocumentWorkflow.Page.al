@@ -16,7 +16,7 @@ page 70976586 REIDocumentWorkflow
                 {
                     ApplicationArea = All;
                     Caption = 'User ID';
-                    ToolTip = 'Specifies the User ID of the requester';
+                    ToolTip = 'Specifies the requester's User ID';
                 }
                 field("Table No."; Rec."Table No.")
                 {
